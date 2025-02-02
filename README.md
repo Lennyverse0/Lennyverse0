@@ -8,10 +8,10 @@ About me:
 - I'm interested in games and game development
 -------------------------------------
 Currently working on:
-    - Recreating a platformer in Godot i created in Scratch a few years ago
-    - Learning Godot
-    - Dealing with my lack of skills with graphics
-
+- Recreating a platformer in Godot i created in Scratch a few years ago
+-Learning Godot
+- Dealing with my lack of skills with graphics
+-------------------------------------
 Languages:
 - Java
 - A little experience with c#
